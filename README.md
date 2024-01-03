@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://imgur.com/ciwlCWa.png" (https://imgur.com/ciwlCWa ) height="85%" width="85%" Python photo"/>
 </p>
-<h2>Language Used</h2>
+<h2>Languages Used</h2>
 - <b>Python</b>
 
 
